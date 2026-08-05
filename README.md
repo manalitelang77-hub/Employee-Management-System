@@ -143,7 +143,7 @@ This project helped me understand:
 
 B.Sc. Information Technology Graduate
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/manalitelang77
 
 ---
 
